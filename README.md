@@ -36,4 +36,5 @@ For example, see `.github/workflows/maven-ci-build.yml` for more details.
 #### https://dev.mysql.com/doc/ndbapi/en/mccj.html
 #### https://hevodata.com/learn/spring-boot-mysql/
 #### https://learn.microsoft.com/es-es/azure/mysql/flexible-server/tutorial-deploy-springboot-on-aks-vnet
-#### https://medium.com/@bostone/how-to-run-mysql-cluster-backed-secure-spring-boot-app-on-aws-eks-74570a18a801)
+#### https://techcommunity.microsoft.com/t5/azure-database-for-mysql-blog/azure-open-source-day-announcing-new-integrations-with-azure/ba-p/3760771
+#### https://medium.com/@bostone/how-to-run-mysql-cluster-backed-secure-spring-boot-app-on-aws-eks-74570a18a801
