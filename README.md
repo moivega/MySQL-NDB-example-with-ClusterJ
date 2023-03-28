@@ -42,3 +42,4 @@ For example, see `.github/workflows/maven-ci-build.yml` for more details.
 #### *https://dev.mysql.com/doc/ndb-operator/en/tasks-access-within-k8s.html
 #### *https://stackoverflow.com/questions/54778350/run-mysql-cluster-backed-https-enabled-spring-boot-app-on-aws-eks
 #### *https://devpress.csdn.net/k8s/62fd822f7e6682346619266a.html
+#### *https://help.tableau.com/current/server-linux/en-us/server-in-container_troubleshoot.htm
