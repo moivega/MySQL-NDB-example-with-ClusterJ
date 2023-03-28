@@ -33,13 +33,12 @@ mvn -DargLine="-Djava.library.path=/usr/lib/x86_64-linux-gnu/" clean test
 when `/usr/lib/x86_64-linux-gnu/` path to `ndbclient_7.6.9.so`
 
 For example, see `.github/workflows/maven-ci-build.yml` for more details.
-#### https://dev.mysql.com/doc/ndbapi/en/mccj.html
-#### 
+#### *https://dev.mysql.com/doc/ndbapi/en/mccj.html
 #### https://hevodata.com/learn/spring-boot-mysql/
 #### https://learn.microsoft.com/es-es/azure/mysql/flexible-server/tutorial-deploy-springboot-on-aks-vnet
 #### https://techcommunity.microsoft.com/t5/azure-database-for-mysql-blog/azure-open-source-day-announcing-new-integrations-with-azure/ba-p/3760771
-#### https://medium.com/@bostone/how-to-run-mysql-cluster-backed-secure-spring-boot-app-on-aws-eks-74570a18a801
-#### https://docs.aws.amazon.com/eks/latest/userguide/what-is-eks.html
-#### https://dev.mysql.com/doc/ndb-operator/en/tasks-access-within-k8s.html
-#### https://stackoverflow.com/questions/54778350/run-mysql-cluster-backed-https-enabled-spring-boot-app-on-aws-eks
-#### https://devpress.csdn.net/k8s/62fd822f7e6682346619266a.html
+#### *https://medium.com/@bostone/how-to-run-mysql-cluster-backed-secure-spring-boot-app-on-aws-eks-74570a18a801
+#### *https://docs.aws.amazon.com/eks/latest/userguide/what-is-eks.html
+#### *https://dev.mysql.com/doc/ndb-operator/en/tasks-access-within-k8s.html
+#### *https://stackoverflow.com/questions/54778350/run-mysql-cluster-backed-https-enabled-spring-boot-app-on-aws-eks
+#### *https://devpress.csdn.net/k8s/62fd822f7e6682346619266a.html
