@@ -40,3 +40,4 @@ For example, see `.github/workflows/maven-ci-build.yml` for more details.
 #### https://medium.com/@bostone/how-to-run-mysql-cluster-backed-secure-spring-boot-app-on-aws-eks-74570a18a801
 #### https://docs.aws.amazon.com/eks/latest/userguide/what-is-eks.html
 #### https://dev.mysql.com/doc/ndb-operator/en/tasks-access-within-k8s.html
+#### https://stackoverflow.com/questions/54778350/run-mysql-cluster-backed-https-enabled-spring-boot-app-on-aws-eks
