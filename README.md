@@ -33,6 +33,6 @@ mvn -DargLine="-Djava.library.path=/usr/lib/x86_64-linux-gnu/" clean test
 when `/usr/lib/x86_64-linux-gnu/` path to `ndbclient_7.6.9.so`
 
 For example, see `.github/workflows/maven-ci-build.yml` for more details.
-https://dev.mysql.com/doc/ndbapi/en/mccj.html
-https://hevodata.com/learn/spring-boot-mysql/
-https://learn.microsoft.com/es-es/azure/mysql/flexible-server/tutorial-deploy-springboot-on-aks-vnet
+#####https://dev.mysql.com/doc/ndbapi/en/mccj.html
+#####https://hevodata.com/learn/spring-boot-mysql/
+#####https://learn.microsoft.com/es-es/azure/mysql/flexible-server/tutorial-deploy-springboot-on-aks-vnet
