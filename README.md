@@ -38,3 +38,4 @@ For example, see `.github/workflows/maven-ci-build.yml` for more details.
 #### https://learn.microsoft.com/es-es/azure/mysql/flexible-server/tutorial-deploy-springboot-on-aks-vnet
 #### https://techcommunity.microsoft.com/t5/azure-database-for-mysql-blog/azure-open-source-day-announcing-new-integrations-with-azure/ba-p/3760771
 #### https://medium.com/@bostone/how-to-run-mysql-cluster-backed-secure-spring-boot-app-on-aws-eks-74570a18a801
+#### https://docs.aws.amazon.com/eks/latest/userguide/what-is-eks.html
