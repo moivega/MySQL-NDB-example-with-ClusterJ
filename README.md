@@ -41,3 +41,4 @@ For example, see `.github/workflows/maven-ci-build.yml` for more details.
 #### https://docs.aws.amazon.com/eks/latest/userguide/what-is-eks.html
 #### https://dev.mysql.com/doc/ndb-operator/en/tasks-access-within-k8s.html
 #### https://stackoverflow.com/questions/54778350/run-mysql-cluster-backed-https-enabled-spring-boot-app-on-aws-eks
+#### https://devpress.csdn.net/k8s/62fd822f7e6682346619266a.html
